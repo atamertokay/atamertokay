@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Junior Full Stack (Java) Developer<br><br>- 📫 How to reach me    ata.mert.okay@outlook.com<br>- 📄 My resume/CV https://drive.google.com/file/d/1wt9mFsM8XISqZ_-P8QLLpOfCJ2HKzvNk/view?usp=drive_link</p>
+<p align="left">Junior Full Stack (Java) Developer<br><br>- 📫 How to reach me    ata.mert.okay@outlook.com<br>- 📄 My resume/CV https://drive.google.com/file/d/1xP4k51pdXHEoWIumozFKPvR6DEorPO38/view?usp=drive_link</p>
 
 ###
 
